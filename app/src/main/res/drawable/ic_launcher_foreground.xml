@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Toan bo hinh nam trong vung an toan 66dp cua adaptive icon -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.78"
+        android:scaleY="0.78"
+        android:translateY="1.5">
+        <!-- Trang trai dac + nut Play duoc khoet rong (evenOdd) -->
+        <path
+            android:fillColor="@color/nr_icon_ink"
+            android:fillType="evenOdd"
+            android:pathData="M54,34 C46,29 36,27 24,29 L24,73 C36,71 46,73 54,78 Z M35,44.5 L48,51.5 L35,58.5 Z" />
+        <!-- Trang phai dang net -->
+        <path
+            android:strokeColor="@color/nr_icon_ink"
+            android:strokeWidth="4.6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M54,34 C62,29 72,27 84,29 L84,73 C72,71 62,73 54,78" />
+        <!-- Song am thanh -->
+        <path
+            android:strokeColor="@color/nr_icon_ink"
+            android:strokeWidth="3.2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M60,52 L63.5,52 L66.5,42 L70,61 L73.5,46 L76.5,54 L80,54" />
+    </group>
+</vector>

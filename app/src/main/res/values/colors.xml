@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nr_background">#0A0A0F</color>
+    <color name="nr_accent">#8B5CF6</color>
+
+    <!-- Icon launcher: mau thuong hieu (Android 8-11, khong co Monet) -->
+    <color name="ic_launcher_background">#F7F4FF</color>
+    <color name="nr_icon_ink">#3D2866</color>
+</resources>
